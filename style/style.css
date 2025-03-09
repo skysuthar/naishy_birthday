@@ -225,14 +225,14 @@ body {
 }
 
 .wish h5 {
-  font-weight: lighter;
-  font-size: 2rem;
+  /* font-weight: lighter; */
+  font-size: 2.5rem;
   margin: 10px 0 0;
 }
 
 .nine p {
-  font-size: 2rem;
-  font-weight: lighter;
+  font-size: 1.5rem;
+  /* font-weight: lighter; */
 }
 
 #replay {
