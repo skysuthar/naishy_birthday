@@ -34,8 +34,8 @@ body {
 }
 
 .seven .baloons img {
-  height:"50%";
-  width:"185px";
+  height: 50%;
+  width:185px;
 }
 
 .container > div {
@@ -309,7 +309,7 @@ body {
   }
 
   .seven .baloons img {
-    height:"40%!important";
-    width:"185px!important";
+    height: 40%!important;
+    width: 185px!important;
   }
 }
