@@ -309,7 +309,7 @@ body {
   }
 
   .seven .baloons img {
-    height:"40%";
-    width:"185px";
+    height:"40%!important";
+    width:"185px!important";
   }
 }
