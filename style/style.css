@@ -33,6 +33,11 @@ body {
   top: 0;
 }
 
+.seven .baloons img {
+  height:"50%";
+  width:"185px";
+}
+
 .container > div {
   position: absolute;
   left: 0;
@@ -286,7 +291,8 @@ body {
 
   .six .hat {
     width: 50px;
-    top: -20px;
+    top: -13px;
+    left: 50%;
   }
 
   .wish-hbd {
@@ -300,5 +306,10 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
+  }
+
+  .seven .baloons img {
+    height:"40%";
+    width:"185px";
   }
 }
