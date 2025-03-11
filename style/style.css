@@ -8,6 +8,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Work Sans", sans-serif;
+  backdrop-filter: blur(5px);
+  overflow: hidden;
 }
 
 .container {
